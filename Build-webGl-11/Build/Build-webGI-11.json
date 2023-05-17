@@ -1,0 +1,16 @@
+{
+"companyName": "Yenetta",
+"productName": "BeBlocky",
+"productVersion": "4.08",
+"dataUrl": "Build-webGI-11.data.unityweb",
+"wasmCodeUrl": "Build-webGI-11.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build-webGI-11.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Build-webGI-11.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
